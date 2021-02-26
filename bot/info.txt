@@ -1,0 +1,2 @@
+kiritilgan matnni kril bolsa lotinga, lotin bo'lsa krilga o'tkazuvchi bot.
+Serverga ulangan @latin_to_krilbot
